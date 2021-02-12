@@ -1,6 +1,4 @@
 import io from 'socket.io-client'
-import cookie from 'socket.io-client-cookies-headers'
-
 import Auth from './libs/Auth.js'
 
 // main func
